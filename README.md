@@ -58,7 +58,3 @@ Contributing 🤝
 
 Contributions to RepoScout are welcome! If you encounter any issues, have feature requests, or want to contribute enhancements, feel free to open an issue or submit a pull request.
 
-License 📄
-----------
-
-RepoScout is licensed under the [MIT License](LICENSE).
