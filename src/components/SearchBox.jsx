@@ -11,9 +11,7 @@ const SearchBox = () => {
 
   const handleSubmit = () => {
     if(currentUserInput.length > 0) {
-      console.log(currentUserInput)
       setUserInput(currentUserInput);
-      console.log(userInput)
       setCurrentUserInput(""); 
     }
   };
