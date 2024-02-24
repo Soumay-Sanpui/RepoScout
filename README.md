@@ -3,6 +3,10 @@ RepoScout 🚀
 
 RepoScout is a web application that serves as your gateway to GitHub repositories. It provides an intuitive interface for effortlessly searching, discovering, and exploring a wide range of projects available on GitHub. With RepoScout, you can find trending repositories, explore categories, and access detailed information about each project.
 
+PRODUCTION DEPLOY
+----------------
+repoScout[https://master--repo-scout.netlify.app/]
+
 Features 🛠️
 ------------
 
